@@ -1,2 +1,2 @@
 # chat_NLW
-Participei do evento nlw da rocketseat
+Aplicação desenvolvida no evento nlw 6 da Rocketseat, onde eu estudei node.js pela primeira vez. 
